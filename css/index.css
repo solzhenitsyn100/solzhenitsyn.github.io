@@ -289,7 +289,7 @@ body
 }
 #TextArea1
 {
-   border: 1px #CCCCCC solid;
+   border: 0px #CCCCCC solid;
    border-radius: 4px;
    background-color: transparent;
    background-image: none;
@@ -304,7 +304,7 @@ body
 }
 #TextArea2
 {
-   border: 1px #CCCCCC solid;
+   border: 0px #CCCCCC solid;
    border-radius: 4px;
    background-color: transparent;
    background-image: none;
@@ -319,7 +319,7 @@ body
 }
 #TextArea3
 {
-   border: 1px #CCCCCC solid;
+   border: 0px #CCCCCC solid;
    border-radius: 4px;
    background-color: transparent;
    background-image: none;
@@ -334,7 +334,7 @@ body
 }
 #TextArea4
 {
-   border: 1px #CCCCCC solid;
+   border: 0px #CCCCCC solid;
    border-radius: 4px;
    background-color: transparent;
    background-image: none;
@@ -349,7 +349,7 @@ body
 }
 #TextArea5
 {
-   border: 1px #CCCCCC solid;
+   border: 0px #CCCCCC solid;
    border-radius: 4px;
    background-color: transparent;
    background-image: none;
@@ -373,7 +373,7 @@ body
 }
 #TextArea6
 {
-   border: 1px transparent solid;
+   border: 0px transparent solid;
    border-radius: 4px;
    background-color: transparent;
    background-image: none;
