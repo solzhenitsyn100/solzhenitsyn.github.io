@@ -138,19 +138,12 @@ body
 }
 #Nazvanietext2
 {
-
    border: 0px #000000 solid;
-
    padding: 0px 0px 0px 0px;
-
    left: 0;
-
    top: 0;
-
    width: 100%;
-
    height: 100%;
-
 }
 #Nazvanietext
 {
@@ -305,7 +298,7 @@ body
 }
 #TextArea1
 {
-   border: 0px #CCCCCC solid;
+   border: 1px #CCCCCC solid;
    border-radius: 4px;
    background-color: transparent;
    background-image: none;
@@ -320,7 +313,7 @@ body
 }
 #TextArea2
 {
-   border: 0px #CCCCCC solid;
+   border: 1px #CCCCCC solid;
    border-radius: 4px;
    background-color: transparent;
    background-image: none;
@@ -335,7 +328,7 @@ body
 }
 #TextArea3
 {
-   border: 0px #CCCCCC solid;
+   border: 1px #CCCCCC solid;
    border-radius: 4px;
    background-color: transparent;
    background-image: none;
@@ -350,7 +343,7 @@ body
 }
 #TextArea4
 {
-   border: 0px #CCCCCC solid;
+   border: 1px #CCCCCC solid;
    border-radius: 4px;
    background-color: transparent;
    background-image: none;
@@ -365,7 +358,7 @@ body
 }
 #TextArea5
 {
-   border: 0px #CCCCCC solid;
+   border: 1px #CCCCCC solid;
    border-radius: 4px;
    background-color: transparent;
    background-image: none;
@@ -389,7 +382,7 @@ body
 }
 #TextArea6
 {
-   border: 0px transparent solid;
+   border: 1px transparent solid;
    border-radius: 4px;
    background-color: transparent;
    background-image: none;
